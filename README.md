@@ -3,7 +3,7 @@
 Implements dynamic array and single linked lists.
 
 1. Dynamic Array
-  dynarray_create() - Function allocates, initilize and returns pinter to new dynamic array structure
+    dynarray_create() - Function allocates, initilize and returns pinter to new dynamic array structure
 
   dynarray_free() - Function frees memory held within dynamic array sctructure though dynarray_create().
 
